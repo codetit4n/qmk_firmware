@@ -6,7 +6,7 @@
 #    define ANIM_RENDER_WPM true
 #    define FAST_TYPE_WPM 45 // Switch to fast animation when over WPM
 
-#    include "demon.c"
+#    include "music-bars.c"
 #endif
 
 enum layer_number {
